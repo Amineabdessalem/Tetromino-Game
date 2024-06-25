@@ -1,0 +1,20 @@
+{
+  // Controls whether the editor should automatically format the code
+  "editor.formatOnSave": true,
+  // Sets the default tab size to 2 spaces
+  "editor.tabSize": 2,
+  // Sets the default font size for the editor
+  "editor.fontSize": 14,
+  // Enables word wrapping in the editor
+  "editor.wordWrap": "on",
+  // Specifies the theme for the editor
+  "workbench.colorTheme": "Default Dark+",
+  // Configures the terminal integrated into VS Code
+  "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+  "terminal.integrated.fontSize": 14,
+  // Sets the language of the editor
+  "files.associations": {
+    "*.java": "java"
+  },
+  "java.debug.settings.onBuildFailureProceed": true
+}
